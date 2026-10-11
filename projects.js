@@ -5,7 +5,7 @@
   - Do not put passwords, private tokens or API keys in this file.
 */
 window.PORTFOLIO_CONFIG = {
-  name: "V Graphic World",
+  name: "Vikas Ads Designer",
   email: "your-email@example.com",
   whatsapp: "910000000000", // country code + number, digits only
   projects: [
